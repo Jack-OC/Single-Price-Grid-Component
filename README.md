@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: ()
-- Live Site URL: ()
+- Solution URL: (https://github.com/Jack-OC/Single-Price-Grid-Component)
+- Live Site URL: (https://jack-oc.github.io/Single-Price-Grid-Component/)
 
 ## My process
 
